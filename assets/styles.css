@@ -1,0 +1,114 @@
+body{
+    background-color: grey;
+}
+
+.align-images{
+    flex-direction: row;
+    display: flex;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+.border-man{
+    border-style: dashed;
+    border-color: #6A8AD7;
+
+}
+ .border-woman{
+     border-style: dashed;
+     border-color: #FF00FF;
+ }
+
+
+ .btn{
+     margin-top: 2%;
+     margin-left: 18%;
+
+ }
+
+ .btn-f{
+     background-color: #FF00FF;
+ }
+
+ .btn-m{
+     background-color: #6A8AD7;
+ }
+
+ .btn-all{
+     background-color: #13B25F;
+ }
+
+ #description{
+
+     margin-top: 50px;
+     height: 30px;
+     display: none;
+     border-style: dotted;
+     text-align: center;
+     font-size: 25px;
+     vertical-align: central;
+     color: black;
+ }
+
+ p{
+     color: #000000;
+ }
+
+.btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+#btn1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+}
+
+.button1:hover {
+    background-color: grey;
+    color: white;
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+}
+
+.button2:hover {
+    background-color: deeppink;
+    color: white;
+}
+
+.button3 {
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+}
+
+.button3:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+.button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+}
+
+.button4:hover {
+    background-color: #1b9212;
+    color: white;
+}
